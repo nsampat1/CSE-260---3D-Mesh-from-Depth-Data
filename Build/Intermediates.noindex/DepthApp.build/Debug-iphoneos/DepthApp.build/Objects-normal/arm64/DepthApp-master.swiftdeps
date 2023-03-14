@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "80586f335ecfc7c863c123206137ac12ce83e6dc979f4a505167bd5828b3cd04"
+build_start_time: [1678774384, 132117986]
+build_end_time: [1678774385, 725940942]
+inputs:
+  "/Users/nithyasampath/Downloads/DepthCapture-master/DepthApp/DepthApp/AppDelegate.swift": [1670692406, 0]
+  "/Users/nithyasampath/Downloads/DepthCapture-master/DepthApp/DepthApp/DepthCapture.swift": [1678774383, 938524484]
+  "/Users/nithyasampath/Downloads/DepthCapture-master/DepthApp/DepthApp/ViewController.swift": [1678774383, 924998283]

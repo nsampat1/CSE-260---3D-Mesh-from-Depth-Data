@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bc7ab2ae0fb07485f3818b44304702a2af96829b00f200d4e461e7a0f57d6cb8"
+    }
+  ],
+  "containerPath" : "/Users/nithyasampath/Downloads/DepthCapture-master/DepthApp/DepthApp.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nithyasampath/Downloads/DepthCapture-master/DepthApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nithyasampath/Downloads/DepthCapture-master/DepthApp/Build/Products",
+      "derivedDataPath" : "/Users/nithyasampath/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nithyasampath/Library/Developer/Xcode/DerivedData/DepthApp-ajcxjilxrevscndgqzjdwagsgsdp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nithyasampath/Library/Developer/Xcode/DerivedData/DepthApp-ajcxjilxrevscndgqzjdwagsgsdp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/nithyasampath/Downloads/DepthCapture-master/DepthApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.0.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008110-001214EE0C45401E",
+          "TARGET_DEVICE_MODEL" : "iPhone14,7",
+          "TARGET_DEVICE_OS_VERSION" : "16.0.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
